@@ -7,11 +7,11 @@
 🪐 I explain the world through HTML, CSS, JavaScript, React, or Vue and analyse it using Python, R and GIS software.
 
 🎲 You'll find projects from my work or studies, such as:
-  · MSc in Smart Cities and Urban Analytics | CASA, UCL
-  · Data Science Bootcamp | Barcelona Activa / IT Academy
-  · Frontend Development Bootcamp | Ironhack 
-  · 42 Barcelona
-  ...
+MSc in Smart Cities and Urban Analytics | CASA, UCL
+Data Science Bootcamp | Barcelona Activa / IT Academy
+Frontend Development Bootcamp | Ironhack 
+42 Barcelona
+...
 
 🤝 I'm happy to be in touch, just say hello via LinkedIn!
 
