@@ -4,7 +4,7 @@
 
 👁️‍🗨️ Take a look around and you'll see both my personal and professional projects, most of them in Frontend Development, Urban Analysis and Data Science.
 
-🪐 I explain the world through HTML, CSS, JavaScript, React, or Vue and analyse it using Python, R and GIS software.
+🪐 I explain the world through using Python, R and GIS software and show it through HTML, CSS, JavaScript, React, or Vue.
 
 🎲 You'll find projects from my work or studies, such as MSc in Smart Cities and Urban Analytics (CASA, UCL)  |  Data Science Bootcamp  (Barcelona Activa / IT Academy)  |  Frontend Development Bootcamp (Ironhack)  |  42 Barcelona...
 
